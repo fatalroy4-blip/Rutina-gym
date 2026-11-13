@@ -14,7 +14,7 @@ La clave de almacenamiento sigue siendo rutina-progresiva-6-dias:v2. Los IDs, la
 
 ## Imágenes
 
-38/38 fichas tienen una imagen de referencia. Se incluyen 24 fotografías reutilizables y las siete imágenes aportadas por el usuario; algunas imágenes del mismo aparato se comparten entre variantes. Las diferencias de ejercicio están señaladas. Ninguna foto se afirma como el modelo exacto del gimnasio. Consulta FUENTES-IMAGENES.md para fuentes, licencias y variantes.
+38/38 fichas tienen una imagen seleccionada y aportada por el usuario, guardada localmente. Se mantienen los archivos GIF y WebP sin convertirlos. Las diferencias de variante se indican en las fichas. Ninguna foto se afirma como el modelo exacto del gimnasio. Consulta FUENTES-IMAGENES.md para fuentes, licencias y variantes.
 
 ## Visor
 
